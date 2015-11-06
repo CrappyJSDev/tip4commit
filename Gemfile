@@ -36,7 +36,7 @@ gem 'rails-i18n'
 gem "i18n-js"
 gem 'kaminari-i18n'
 gem 'devise-i18n'
-
+gem 'rails_12factor', group: :production
 gem 'easy_gravatar'
 
 group :development do
